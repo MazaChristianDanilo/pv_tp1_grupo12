@@ -3,3 +3,4 @@
 ##Autores
 
 -Danilo Christian Maza
+-Salim Faridd Quintar
