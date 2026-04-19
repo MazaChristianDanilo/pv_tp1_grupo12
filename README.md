@@ -1,7 +1,6 @@
-#Gestor de Archivos
+# Integrantes
 
-##Autores
-
--Danilo Christian Maza
--Salim Faridd Quintar
+- Danilo Christian Maza
+- Salim Faridd Quintar
 - Tatiana Yurquina
+- Torrez Carlos Iván
