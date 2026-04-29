@@ -1,6 +1,7 @@
-# Integrantes
+# pv_tp2_grupo11
 
-- Danilo Christian Maza
-- Salim Faridd Quintar
-- Tatiana Yurquina
-- Torrez Carlos Iván
+## Nombres y usuarios de GitHub:
+- Maza Danilo - MazaChristianDanilo 
+- Quintar Salim Farid - safaqui00
+- Yurquina Tatiana - TatianaYurquina
+- Torrez Carlos Iván - ivantorrez
