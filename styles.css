@@ -11,27 +11,52 @@ h1 {
 
   padding: 50px;
 
-  border: 10px solid black;
+  border: 3px solid black;
   border-radius: 10px;
 
   text-shadow:100 100 100 white ;
   background-image: url(https://static.vecteezy.com/system/resources/previews/020/580/389/non_2x/education-concept-illustration-students-analyzing-graphs-reading-books-and-doing-research-vector.jpg
   );
   background-position: center;
-
-  margin: 20px;
-} 
+  ;
+  box-shadow: 0 0 40px #000700;
+ 
+  margin:20px;
+}
 h2{
-  padding:5px ;
-  
-
-  border: 5xp solid white;
-  border-radius: 100px ;
-  
-  margin: 20px;
-   
-  font-weight: 900;
+  font-weight: 900 ;
   text-align: center;
+  text-transform: uppercase;
+
+  padding: 30px;
+
+  border: 3px solid black;
+  border-radius: 10px;
+
+  background-image: url(https://static.vecteezy.com/system/resources/previews/020/580/389/non_2x/education-concept-illustration-students-analyzing-graphs-reading-books-and-doing-research-vector.jpg
+  );
+  background-position: right;
+  box-shadow: 0 0 40px #000700;
+
+  margin: 20px;
+ }
+
+ h3{
+  font-weight: 900 ;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding: 10px;
+
+  border: 3px solid black;
+  border-radius: 10px;
+
+  background-image: url(https://static.vecteezy.com/system/resources/previews/020/580/389/non_2x/education-concept-illustration-students-analyzing-graphs-reading-books-and-doing-research-vector.jpg
+  );
+  background-position: left;
+  box-shadow: 0 0 40px #000700;
+
+  margin: 20px;
  }
       
 a{
@@ -39,6 +64,16 @@ a{
   font-size: 32px;
   font-weight: 900;
 
+}
+p{
+  padding:10px;
+  border: 2px solid black;
+  font-style: italic;
+  text-align: justify;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 0 40px #000700;
+  margin:20px;
 }
 .contenedor {
   display: flex;
@@ -56,6 +91,7 @@ a{
   align-items: center;
   border-radius: 10px;
   box-shadow: 0 0 40px #000700;
+  margin: 20px;
 }
 
 .caja-1 {
@@ -70,4 +106,14 @@ background-image:url(https://www.avon77.com/app/uploads/2022/09/illustration-con
 .caja-3 {
   background-image: url(https://cdn-icons-png.flaticon.com/512/2037/2037149.png);
   background-position: center;
+}
+
+ul{
+  padding:10px;
+  border: 2px solid black;
+  font-style: italic;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 40px #000700;
+  margin:20px; 
 }
